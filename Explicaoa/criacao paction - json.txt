@@ -1,0 +1,11 @@
+Irá criar o npm paction json, sem ele nao a como importar e 
+exportar os arquivos
+
+npm init -y
+
+
+- - - - - -  - - - - - - - - - - - - - - - - - - - -
+
+metodo static : Normalmente utilizado para chamar funcoes da bilioteca ou frameork do node.
+
+Passar classes ao js, basta dar um nome na função qualquer e na chamada passar o objeto
