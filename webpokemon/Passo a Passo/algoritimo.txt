@@ -1,0 +1,5 @@
+npm install -g http-server
+http-server ./
+
+Habilite o script do powe shell, caso esteja restrictd
+
